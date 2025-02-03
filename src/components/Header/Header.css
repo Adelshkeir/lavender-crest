@@ -1,0 +1,20 @@
+.header-wrapper{
+    background-color:var(--black);
+    color: white;
+}
+
+.header-container{
+    justify-content: space-between;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color:var(--secondary);
+}
+
+
+.h-links{
+    gap: 2rem;
+}
+
+.h-links a:hover{
+    cursor: pointer;
+}
