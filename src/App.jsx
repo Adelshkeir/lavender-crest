@@ -3,7 +3,7 @@ import { useState, useEffect } from "react";
 import Header from "./components/Header/Header";
 import Hero from "./components/Hero/Hero";
 import Companies from "./components/companies/Companies";
-
+import Rooms from "./components/Rooms/Rooms";
 const App = () => (
   <div className="App">
     <div>
@@ -12,6 +12,7 @@ const App = () => (
       <Hero />
     </div>
     <Companies />
+    <Rooms />
   </div>
 );
 

@@ -1,0 +1,53 @@
+[
+{
+"name": "Modern Maze Retreat",
+"price": "150",
+"details":"Inspired by the geometric wall design",
+"image":"sliderimage1.png"
+},
+
+
+{
+    "name": "Futuristic Luxury Pod",
+    "price": "400",
+    "details":"The most expensive and high-tech looking",
+    "image":"sliderimage2.png"
+    },
+
+    {
+        "name": "Elegant Purple Suite",
+        "price": "200",
+        "details":"A cozy yet refined space with purple accents",
+        "image":"sliderimage3.png"
+        },
+
+
+        {
+            "name": "Bright Seaside Haven",
+            "price": "300",
+            "details":"A luxurious and well-lit modern room",
+            "image":"sliderimage4.png"
+            },
+
+
+
+            {
+                "name": "Classic Seaside Elegance",
+                "price": "325",
+                "details":" A bright and refined room with an exceptional view",
+                "image":"sliderimage5.png"
+                },
+
+
+
+
+                {
+                    "name": "Vintage Comfort Suite",
+                    "price": "250",
+                    "details":"A warm and cozy room with classic décor",
+                    "image":"sliderimage6.png"
+                    }
+
+
+
+]

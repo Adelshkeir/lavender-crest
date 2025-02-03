@@ -1,6 +1,6 @@
 :root {
   --primary: #6a0dad; /* Deep Purple */
-  --secondary: rgba(255, 255, 255, 0.85); /* Soft White */
+  --secondary: rgba(255, 255, 255, 0.78);
   --black: rgb(22, 21, 21);
   --gold: #d4af37; /* Gold Accent */
   --silver: #c0c0c0; /* Silver Accent */
@@ -77,11 +77,11 @@ a {
 .primaryText {
   color: var(--primary);
   font-weight: bold;
-  font-size: 2rem;
+  font-size: 1.8rem;
 }
 
 .secondaryText {
-  color: var(--secondary);
+  color: rgb(140 139 139);
   font-size: 0.9rem;
 }
 
