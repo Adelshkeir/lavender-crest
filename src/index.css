@@ -1,7 +1,7 @@
 :root {
   --primary: #6a0dad; /* Deep Purple */
   --secondary: rgba(255, 255, 255, 0.85); /* Soft White */
-  --black: #131110;
+  --black: rgb(22, 21, 21);
   --gold: #d4af37; /* Gold Accent */
   --silver: #c0c0c0; /* Silver Accent */
   --purple-gradient: linear-gradient(97.05deg, #6a0dad 3.76%, #4b0082 100%);
