@@ -1,0 +1,36 @@
+.explore-more-wrapper{
+    width: 62%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 49%  49%;
+    gap: 2%;
+}
+
+
+.explore-more-first-section{
+    width: 100%;
+}
+
+
+
+
+
+.explore-more-first-section img{
+    width: 100%;
+    height: 100%;
+    border-radius: 12px;
+}
+
+
+.explore-more-second-section{
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-rows: 49% 0.5% 49%;
+}
+
+.explore-more-second-section img{
+    width: 100%;
+    border-radius: 12px;
+}
+

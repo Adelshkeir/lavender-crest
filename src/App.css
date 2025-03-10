@@ -17,3 +17,18 @@
     background: var(--purple-gradient);
     border-radius: 100px;
 }
+
+.explore-more-text{
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    font-size: 1.5rem;
+    color: var(--primary);
+}
+
+.lastpicture {
+    display: block;
+    margin: 0 auto;
+    width: 62%;
+    border-radius: 12px;
+  }
